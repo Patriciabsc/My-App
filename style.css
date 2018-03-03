@@ -47,3 +47,17 @@ height: 100vh; /* vh permet d'avoir toute la hauteur de l'écran */
 		 /* question: pourquoi 2 colonnes? */;
  }
 
+#boxlogo {
+	background-color: #32595E;
+	height: 100vh;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+#inlinelist{
+	display:flex;
+	list-style: none;
+}
