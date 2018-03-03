@@ -37,13 +37,13 @@ p{
 }
 
 #content { 
-background-color: #D23333;
+background-color: #008FA5;
 height: 100vh; /* vh permet d'avoir toute la hauteur de l'écran */
  
  /* Flexbox - permet de plus facilement changer les box??*/ 
  display: flex;
  align-items: center;
  justify-content: center;
-
+		 /* question: pourquoi 2 colonnes? */;
  }
 
